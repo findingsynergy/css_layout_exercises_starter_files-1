@@ -1,0 +1,22 @@
+main {
+    width:800px;
+    font-size:0;
+    margin:auto;}
+
+.rowone {
+    height:200px;
+    width:50%;   }
+
+.rowtwo {
+    height:300px;
+    width:33.33%;}
+
+.gre {background-color:green;}
+.blu {background-color:blue;}
+.gra {background-color:grey;}
+.bla {background-color:black;}
+.ora {background-color:orange;}
+
+.box {
+    border:1px solid black;
+    display:inline-block;}

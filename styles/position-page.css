@@ -1,1 +1,50 @@
+nav {
+    background-color: grey;
+    padding-left:60px;
+    padding-right:60px;    }
 
+ul {
+	display:inline;
+	position:absolute;
+	margin-top:30px;}
+
+li {
+	list-style: none;
+	display:inline;}
+
+li:after {
+    content: " \007C";}
+
+nav img {
+	border-radius: 50%;
+	margin-top:1%;
+	margin-bottom:1%;
+	border: 1px solid black;
+	width:60px;}
+
+main {
+	height:800px;
+	background-image: url(../images/outerspace_landscape.jpeg);
+    background-size: cover;
+    padding-top:20%;}
+
+.box {
+	font-size:0;
+	border:10px dotted green;
+	width:600px;
+	height:300px;	
+	margin: auto;}
+
+.spacecat, .spacedog  {
+	width:200px;
+	height:200px;
+	position:relative;
+    border:1px solid black;}
+
+.spacecat {
+    top: -100px; 
+    left: -100px;}
+
+.spacedog {
+    top: 180px; 
+    left: 280px;}

@@ -10,3 +10,21 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.pic1 {
+  height:335px;
+  width:335px;
+  float:left;
+  padding-right:15px;
+    padding-top:15px;
+      padding-bottom:15px;
+}
+
+.pic2 {
+  height:335px;
+  width:335px;
+  float:right;
+  padding-left:15px;
+  padding-top:15px;
+  padding-bottom:15px;
+}
